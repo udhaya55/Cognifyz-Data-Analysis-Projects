@@ -1,1 +1,1 @@
-# Cognifyz-Data-Analysis-Projects
+# Cognifyz Technology Internship

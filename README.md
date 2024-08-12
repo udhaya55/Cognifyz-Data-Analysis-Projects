@@ -1,1 +1,4 @@
-# Cognifyz Tech Intern
+# Cognifyz Technology
+
+### Data Analysis Intern
+
